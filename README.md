@@ -1,4 +1,4 @@
-# Helper script for full tests coverage checkup for you Dart/Flutter project
+# Helper for full tests coverage checkup for you Dart/Flutter project
 
 ## Installation
 
@@ -14,9 +14,9 @@
     chmod +x dart-coverage-helper
     ```
 
-3. Ensure that the location of the script in in your `PATH` environment variable.
+3. Ensure that the location of the script is in your `PATH` environment variable.
 
-    That's it!
+That's it!
 
 ## Usage
 
@@ -26,7 +26,7 @@ Run from the root of your Dart/Flutter project
 dart-coverage-helper
 ```
 
-Then generate the coverage report as usual.
+Then generate the coverage report as usual
 
 ```bash
 flutter test --coverage # for Flutter project
